@@ -367,7 +367,8 @@ https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd?|referer=https://pla
 https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
-
+#EXTINF:-1 ch-number="110" tvg-id="ESPN Premium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Pack futbol", ESPN Premium (Backup)
+https://socio.crackstreamslivehd.com/espnpremium/tracks-v1a1/mono.m3u8?ip=190.120.120.3&token=a1617f5cdd32f582e4621cc199482626442fa7e1-19-1753246201-1753192201
 
 
 infantiles (200xx)
