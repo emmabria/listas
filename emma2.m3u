@@ -366,12 +366,6 @@ https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd?|referer=https://pla
 #EXTINF:-1 ch-number="109" tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Pack futbol", TNT Sports Premium
 https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"40332b25f8de44d8bfe15f5f83b8e3e1","k":"d214ae7c6c79cfef6bc7a37ac6e90e01"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="espn2uy" tvg-logo="https://example.com/logo/espn2.png" group-title="Pack futbol", ESPN 2 UYYY
-https://cdn.cvattv.com.ar/live/c6eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd|referer=https://ssl.p.jwpcdn.com/
-
-
  
 infantiles (200xx)
 
