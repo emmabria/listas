@@ -1549,6 +1549,8 @@ https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd?|referer=https://pla
 https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
+#EXTINF:-1 ch-number="110" tvg-id="CanalTest.ar" tvg-logo="https://example.com/logo.png" group-title="Test", Canal TS Directo
+https://nxt.plus:8443/restreamstalker/mzfJKHLK86fy/255839.ts
 
 
 
